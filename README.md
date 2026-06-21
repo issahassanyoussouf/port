@@ -1,6 +1,6 @@
-# Portfolio trilingue ultra professionnel
+# Portfolio
 
-Version moderne et responsive du portfolio d'Issa Hassan Youssouf.
+Version moderne et responsive de mon portfolio
 
 ## Langues incluses
 - Français
